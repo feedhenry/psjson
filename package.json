@@ -6,7 +6,7 @@
   "author" : "Damian Beresford <damian.beresford@feedhenry.com>",
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/isaacs/npm.git"
+    "url" : "git@github.com:feedhenry/psjson.git"
   },
   "main" : "./psjson.js",
   "dependencies" :{    
