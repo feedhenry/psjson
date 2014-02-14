@@ -1,4 +1,4 @@
-psjson
+psjson [![NPM version](https://badge.fury.io/js/psjson.png)](http://badge.fury.io/js/psjson)
 ======
 
 Just simply converts output of a 'ps' command into JSON.
